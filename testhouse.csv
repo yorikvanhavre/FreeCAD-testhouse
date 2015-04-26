@@ -1,0 +1,79 @@
+Quantities schedule
+Project: testhouse
+Date: Sun Apr 26 13:52:25 2015
+
+	Material	Description	Color	Item	Volume (m³)
+
+1. Columns
+
+	Steel	Structural steel, protected and painted for exterior use		Metal column 1	0.0424115
+				Metal column 2	0.0424115
+				Total	0.084823
+
+	Concrete	25MPa cast-in-place structural concrete		Column 1	0.096
+				Column 2	0.096
+				Column 3	0.096
+				Column 4	0.096
+				Column Extension 1	0.37385
+				Column Extension 2	0.37385
+				Total	1.1317
+
+2. Beams
+
+	Steel	Structural steel, protected and painted for exterior use		Metal beam 3	0.00625287
+				Metal beam 2	0.00625287
+				Metal beam 1	0.0064887
+				Total	0.0189944
+
+	Concrete	25MPa cast-in-place structural concrete		Beam Long 1	0.256
+				Beam Long 2	0.256
+				Beam Short 1	0.144
+				Beam Short 2	0.144
+				Total	0.8
+
+3. Slabs
+
+	Concrete	25MPa cast-in-place structural concrete		Ground Slab	0.624
+				Roof slab	1.288
+				Slab Terrace	0.576
+				Slab Extension 1	0.540108
+				Slab Extension 2	0.540108
+				Roof Extension	1.93287
+				Annex slab	0.772901
+				Annex roof slab	0.837119
+				Total	7.1111
+
+4. Foundations
+
+	Concrete	25MPa cast-in-place structural concrete		Footing Long 1	0.816
+				Footing Long 2	0.816
+				Footing Short 1	0.384
+				Footing Short 2	0.384
+				Footing Terrace	0.576
+				Footing Extension 1	0.576
+				Footing Extension 2	0.576
+				Footing Extension 3	0.576
+				Annex foundation 1	0.096
+				Annex foundation 2	0.096
+				Annex foundation 3	0.096
+				Annex foundation 4	0.096
+				Annex footing beam 1	0.128
+				Annex footing beam 2	0.128
+				Total	5.344
+
+5. Walls
+
+	CMU Masonry	190mmx390mm concrete masonry block		Wall Short 1	0.736
+				Wall Long 1	1.344
+				Wall Short 2	0.528
+				Wall Long 2	1.596
+				Extension Wall	2.35729
+				Bar wall	0.153
+				Annex curved wall	3.00133
+				Annex front wall	0.5376
+				Total	10.2532
+
+6. Miscellaneous
+
+	Ipê Wood	Ipê wood with surface treatment for exterior use		Brises	0.23112
+				Total	0.23112
